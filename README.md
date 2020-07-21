@@ -15,5 +15,4 @@ The brainchild of [Ms. Stephaive Fuccio](https://www.stephfuccio.com/) where:
 ![](plots/podrevdaytweet.png)  
 
 
-
 [![](http://img.youtube.com/vi/P7Zgo8_mAtM/0.jpg)](http://www.youtube.com/watch?v=P7Zgo8_mAtM "#PodRevDay Bar Chart Race")
