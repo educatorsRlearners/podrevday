@@ -41,7 +41,7 @@ Unsurprisingly, the vast majortity of tweets take place on or near the eighth of
 
 ## ***#PodRevDay's Global Expansion***
 
-Unfortuanately, only half the participants' location is public; however, we can still see that with each month, #podrevday attracts participants from an expanding list of countries.
+Unfortuanately, only half the participants' locations are public; however, we can still see that with each passing month, #podrevday attracts participants from an expanding list of countries.
 
 ![](https://github.com/educatorsRlearners/podrevday/blob/master/plots/podrevday.gif "#PodRevDay Bar Chart Race")
 
