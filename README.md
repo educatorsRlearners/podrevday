@@ -16,12 +16,12 @@ The brainchild of [Ms. Stephanie Fuccio](https://www.stephfuccio.com/) where:
 
 ## ***#PodRevDay By the Numbers***
 
-__934__: Tweets using the hashtag #PodRevDay  
-__326__: Unique users have participted in #PodRevDay  
+__1088__: Tweets using the hashtag #PodRevDay  
+__358__: Unique users have participted in #PodRevDay  
 __575,430__: Followers of participants in #PodRevDay  
 __16__: Minimum number of countries with participants  
-__6.12__: Averge Number of people liking a tweet about #PodRevDay  
-__2.18__: Average retweets per tweet about #PodRevDay  
+__5.74__: Averge Number of people liking a tweet about #PodRevDay  
+__2.12__: Average retweets per tweet about #PodRevDay  
 
 ## ***#PodRevDay Over Time***
 The start of summer in the northern hemisphere has seen an increase in participation. 
