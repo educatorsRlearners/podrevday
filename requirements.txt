@@ -1,8 +1,6 @@
-pandas
-matplotlib.pyplot
-GeoText
-nest_asyncio
-twint
-GetOldTweets3
 bar_chart_race
-numpy
+geonamescache
+GeoText
+matplotlib.pyplot
+pandas
+snscrape
