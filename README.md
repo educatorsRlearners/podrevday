@@ -16,12 +16,12 @@ The brainchild of [Ms. Stephanie Fuccio](https://www.stephfuccio.com/) where:
 
 ## ***#PodRevDay By the Numbers***
 
-__1088__: Tweets using the hashtag #PodRevDay  
-__358__: Unique users have participted in #PodRevDay  
+__898__: Tweets using the hashtag #PodRevDay  
+__315__: Unique users have participted in #PodRevDay  
 __575,430__: Followers of participants in #PodRevDay  
-__16__: Minimum number of countries with participants  
-__5.74__: Averge Number of people liking a tweet about #PodRevDay  
-__2.12__: Average retweets per tweet about #PodRevDay  
+__17__: Minimum number of countries with participants  
+__6.72__: Averge Number of people liking a tweet about #PodRevDay  
+__2.52__: Average retweets per tweet about #PodRevDay  
 
 ## ***#PodRevDay Over Time***
 The start of summer in the northern hemisphere has seen an increase in participation. 
@@ -34,14 +34,15 @@ Possibly: people are on vacation with no where to go so they might be listening 
 
 
 ## ***#PodRevDay Participation by Day***
-Unsurprisingly, the vast majortity of tweets take place on or near the eighth of each month. Good to see people can follow instructions :wink: 
+
+The vast majortity of tweets take place on or near the eighth of each month. Good to see people can follow instructions :wink: 
 
 ![](plots/tweets_by_date.png)  
 
 
 ## ***#PodRevDay's Global Expansion***
 
-Unfortuanately, only half the participants' locations are public; however, we can still see that with each passing month, #podrevday attracts participants from an expanding list of countries.
+Only half the participants' locations are public; however, we can still see that with each passing month, #podrevday attracts participants from an expanding list of countries.
 
 ![](https://github.com/educatorsRlearners/podrevday/blob/master/plots/podrevday.gif "#PodRevDay Bar Chart Race")
 
