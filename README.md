@@ -1,7 +1,7 @@
 # A Brief Analysis of [#PodRevDay](https://www.stephfuccio.com/podrevday.html "What is #podrevday?") 
 
 
-![](https://blog.podchaser.com/wp-content/uploads/2020/03/ESlXMPPWAAAdAbw.jpg)
+![](plots/PodRevDayLogo.jpg)
 
 
 ## ***What is [#podrevday](https://www.stephfuccio.com/podrevday.html)?*** 
