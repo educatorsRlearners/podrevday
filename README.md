@@ -12,28 +12,12 @@ The brainchild of [Ms. Stephanie Fuccio](https://www.stephfuccio.com/) where:
 
 ## ***#PodRevDay By the Numbers***
 
-__1446__: Tweets using the hashtag #PodRevDay  
-__422__: Unique users have participated in #PodRevDay  
-__800,293__: Followers of participants in #PodRevDay  
-__19__: Minimum number of countries with participants  
-__6.31__: Average Number of people liking a tweet about #PodRevDay  
-__2.42__: Average retweets per tweet about #PodRevDay  
-
-## ***#PodRevDay Over Time***
-
-The start of summer in the northern hemisphere has seen an increase in participation. 
-
-Are the two related?
-
-Possibly: people are on vacation with no where to go so they might be listening to more podcasts and feel inclined to share a review. 
-
-![](plots/tweets_per_month.png)
-
-## ***#PodRevDay Participation by Day***
-
-The vast majortity of tweets take place on or near the eighth of each month. Good to see people can follow instructions :wink: 
-
-![](plots/tweets_by_date.png)
+__1634__: Tweets using the hashtag #PodRevDay  
+__456__: Unique users have participated in #PodRevDay  
+__882,974__: Followers of participants in #PodRevDay  
+__20__: Minimum number of countries with participants  
+__6__: Average Number of people liking a tweet about #PodRevDay  
+__2.4__: Average retweets per tweet about #PodRevDay  
 
 ## ***#PodRevDay's Global Expansion***
 
