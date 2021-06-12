@@ -12,9 +12,9 @@ The brainchild of [Ms. Stephanie Fuccio](https://www.stephfuccio.com/) where:
 
 ## ***#PodRevDay By the Numbers***
 
-__1634__: Tweets using the hashtag #PodRevDay  
-__456__: Unique users have participated in #PodRevDay  
-__882,974__: Followers of participants in #PodRevDay  
+__1855__: Tweets using the hashtag #PodRevDay  
+__502__: Unique users have participated in #PodRevDay  
+__952,174__: Followers of participants in #PodRevDay  
 __20__: Minimum number of countries with participants  
 __6__: Average Number of people liking a tweet about #PodRevDay  
 __2.4__: Average retweets per tweet about #PodRevDay  
