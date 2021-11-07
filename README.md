@@ -12,15 +12,9 @@ The brainchild of [Ms. Stephanie Fuccio](https://www.stephfuccio.com/) where:
 
 ## ***#PodRevDay By the Numbers***
 
-__1855__: Tweets using the hashtag #PodRevDay  
-__502__: Unique users have participated in #PodRevDay  
-__952,174__: Followers of participants in #PodRevDay  
-__20__: Minimum number of countries with participants  
-__6__: Average Number of people liking a tweet about #PodRevDay  
-__2.4__: Average retweets per tweet about #PodRevDay  
-
-## ***#PodRevDay's Global Expansion***
-
-Only half the participants' locations are public; however, we can still see that with each passing month, #podrevday attracts participants from an expanding list of countries.
-
-![](https://github.com/educatorsRlearners/podrevday/blob/master/plots/podrevday.gif "#PodRevDay Bar Chart Race")
+__2443__: Tweets using the hashtag #PodRevDay.
+__615__: People have participated in #PodRevDay.
+__1,244,556__: Followers of participants in #PodRevDay.
+__22__: Minimum number of countries with participants.
+__6__: Average Number of people liking a tweet about #PodRevDay
+__2.42__: Average retweets per tweet about #PodRevDay
